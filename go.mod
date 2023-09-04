@@ -1,4 +1,4 @@
-module github.com/slopez93/migratorcli/cmd/migratorcli
+module github.com/slopez93/migratorcli
 
 go 1.21.0
 
